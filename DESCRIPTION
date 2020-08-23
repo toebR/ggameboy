@@ -1,0 +1,19 @@
+Package: ggameboy
+Title: Create your custom gameboy plot
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Tobias",
+           family = "Stalder",
+           role = c("aut", "cre"),
+           email = "tobias.stalder.geo@outlook.com",
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Description: This package lets you chose colors of a ggplot2 function that creates a simple gameboy.
+License: `use_mit_license()`
+Imports:
+    ggplot2,
+    statebins,
+    extrafont
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.1.9000
