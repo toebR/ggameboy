@@ -6,11 +6,11 @@ To use this package, you'll need to have the following packages installed:
 ````
 install.packages(c("ggplot2", "statebins", "extrafont")) #run once
 extrafont::register_fonts() #run once
-extrafont::loadfonts(quiet = TRUE)
+extrafont::loadfonts(quiet = TRUE) #run once in every new R session
 ````
 The package can be installed via:
 ````
-devtools::install_github()
+devtools::install_github("toebR/ggameboy")
 library(gameboy)
 ````
 
