@@ -1,5 +1,5 @@
 # ggameboy
-This package lets you plot & save customly colored gameboys.
+This package lets you plot & save customly colored gameboys based on ggplot2.
 
 ## 1. Installation
 To use this package, you'll need to have the following packages installed:
