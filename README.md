@@ -1,6 +1,9 @@
 # ggameboy
 This package lets you plot & save customly colored gameboys based on ggplot2.
 
+<img src="https://user-images.githubusercontent.com/65813696/116878002-ff784300-ac1e-11eb-9276-4502867f831d.png" width="400" height="461" align = "right">
+
+
 ## 1. Installation
 To use this package, you'll need to have the following packages installed:
 ````
