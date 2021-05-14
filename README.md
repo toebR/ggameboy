@@ -77,4 +77,5 @@ patch + plot_annotation(title = "\nWHAT WE CAN DO WITH {GGPLOT2}\n", caption = "
 
 ![poster_gameboy](https://user-images.githubusercontent.com/65813696/90976254-a6a6c580-e53b-11ea-969f-8b5a9eb4dfc8.jpg)
 
-## 4. Licence
+
+The "GAMEBOY" brand is under copyright from © 2021 Nintendo.
